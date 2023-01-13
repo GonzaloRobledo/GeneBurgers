@@ -1,0 +1,3 @@
+12/01/2023 16:25 HS
+
+Ya termine la parte de filtros, ahora faltaria hacer la funcionalidad de que cuando toque en un producto se me habra para agregarlo al carrito, que se guarde en el localStorage, etc.
